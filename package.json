@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"villus": "^1.0.0-rc.14"
+	},
+	"devDependencies": {
+		"typescript": "^4.2.3"
+	}
+}
